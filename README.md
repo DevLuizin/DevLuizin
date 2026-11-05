@@ -129,8 +129,14 @@ Funcionalidades planejadas:
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevLuizin&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLuizin&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevLuizin&theme=github_dark"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevLuizin&theme=github_dark"
+    alt="Repositórios por linguagem"
+  />
 </div>
 
 ---
